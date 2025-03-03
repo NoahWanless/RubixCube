@@ -277,7 +277,7 @@ public class Cube {
         String test2 = scan.next();
         c.printcube();
         c.move(test2);
-        Cube c = new Cube();
+        
         String test1 = "R";
         c.printcube();
         System.out.println();
